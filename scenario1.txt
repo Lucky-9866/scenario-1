@@ -2,3 +2,6 @@ hello global right now im in main branch
 
 now i am trying to do some changes in feature branch too
 
+right now iam going to feature branch and getting all the text done in main branch
+
+
